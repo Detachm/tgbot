@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+*.zip
+*.docx
+.DS_Store
+__MACOSX/
+*.tsbuildinfo
+coverage/
+AGENT.md
